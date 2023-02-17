@@ -4,7 +4,7 @@ For this project, I will be working to understand the results of an A/B test run
 
 This project is part of the Data Analyst Nanodegree Program.
 
-#### License
+### License
 
 [LICENSE]
 
